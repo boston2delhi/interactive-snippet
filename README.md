@@ -5,6 +5,8 @@ Using the Create React Native App to code smartphone gestures to direct the prog
 
 *Don't clone this repo yet!*
 
+Install the [expo.io app](https://expo.io/learn) on your Android phone.
+
 The Create React Native App is touchy about which versions of node/npm is used.  To avoid any confusion, we will be using a version manager to control our node/npm versions, specifically node 6.12.3 and npm 3.10.10.
 
 ### Windows
