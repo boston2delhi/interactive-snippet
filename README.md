@@ -9,15 +9,15 @@ The Create React Native App is touchy about which versions of node/npm is used. 
 
 ### Windows
 1. Uninstall any existing versions of node by both:
-  1.1. Uninstalling node through the Control Panel (Add or Remove Programs)
-  1.2. Deleting the existing npm install location, "C:\Users<user>\AppData\Roaming\npm"
+    1. Uninstalling node through the Control Panel (Add or Remove Programs)
+    2. Deleting the existing npm install location, "C:\Users<user>\AppData\Roaming\npm"
 2. Download, extract, and run "nvm-setup.zip" from Release 1.1.6 of nvm-windows.  [Download page.](https://github.com/coreybutler/nvm-windows/releases)
 3. In terminal, `nvm list available`
 4. `nvm install 6.12.3`
 5. `nvm use 6.12.3`
 6. Double check that you are using the correct versions:
-  6.1. `node -v` should show v6.12.3
-  6.2. `npm -v` should show 3.10.10
+    1. `node -v` should show v6.12.3
+    2. `npm -v` should show 3.10.10
 7. You may now clone this repo.
 
 If your node/npm versions are incorrect, use [nvm-window's README](https://github.com/coreybutler/nvm-windows) to troubleshoot.
