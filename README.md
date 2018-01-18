@@ -25,4 +25,8 @@ The Create React Native App is touchy about which versions of node/npm is used. 
 If your node/npm versions are incorrect, use [nvm-window's README](https://github.com/coreybutler/nvm-windows) to troubleshoot.
 
 ### mac/linux
-1. tbd
+1. Follow the nvm Git installation instructions [here](https://github.com/creationix/nvm#git-install).
+2. In terminal, `nvm ls-remote`
+3. `nvm install 6.12.3`
+3. In a new terminal, `nvm use 6.12.3`
+4. You may now clone this repo via the second terminal.
