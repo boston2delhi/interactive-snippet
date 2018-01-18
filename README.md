@@ -3,7 +3,7 @@ Using the Create React Native App to code smartphone gestures to direct the prog
 
 ## Environment Setup
 
-*Don't clone this repo yet!*
+*Don't clone this repo yet!  Follow the subsequent setup instructions first.*
 
 Install the [expo.io app](https://expo.io/learn) on your Android phone.
 
