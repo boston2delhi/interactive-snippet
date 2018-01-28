@@ -1,12 +1,17 @@
 import React from 'react';
+<<<<<<< HEAD
 import { StyleSheet,  Image, ScrollView, Text, View, Button, Alert } from 'react-native';
 
+=======
+import { StyleSheet, Text, View } from 'react-native';
+>>>>>>> master
 
 export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
         <Text>Open up App.js to start working on your app!</Text>
+<<<<<<< HEAD
         <Text>Changes you make will automatically reload Like this one!.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
         <Text>Hey - it is WORKING!</Text>
@@ -34,6 +39,11 @@ export default class App extends React.Component {
       </View>
 
 
+=======
+        <Text>Changes you make will automatically reload.</Text>
+        <Text>Shake your phone to open the developer menu.</Text>
+      </View>
+>>>>>>> master
     );
   }
 }
